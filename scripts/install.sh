@@ -14,7 +14,7 @@ echo
 
 echo "Installing gotor"
 echo
-cd gotor/cmd/main
+cd home/gotor/cmd/main
 go install gotor.go
 echo "Gotor installed. Run with 'gotor'."
 
