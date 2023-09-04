@@ -1,13 +1,13 @@
  <pre>
 
-                         ████████╗ ██████╗ ██████╗     ██████╗  ██████╗ ████████╗
-                         ╚══██╔══╝██╔═══██╗██╔══██╗    ██╔══██╗██╔═████╗╚══██╔══╝
-                            ██║   ██║   ██║██████╔╝    ██████╔╝██║██╔██║   ██║
-                            ██║   ██║   ██║██╔══██╗    ██╔══██╗████╔╝██║   ██║
-                            ██║   ╚██████╔╝██║  ██║    ██████╔╝╚██████╔╝   ██║
-                            ╚═╝    ╚═════╝ ╚═╝  ╚═╝    ╚═════╝  ╚═════╝    ╚═╝
+████████╗ ██████╗ ██████╗     ██████╗  ██████╗ ████████╗
+╚══██╔══╝██╔═══██╗██╔══██╗    ██╔══██╗██╔═══██╗╚══██╔══╝
+   ██║   ██║   ██║██████╔╝    ██████╔╝██║   ██║   ██║
+   ██║   ██║   ██║██╔══██╗    ██╔══██╗██║   ██║   ██║
+   ██║   ╚██████╔╝██║  ██║    ██████╔╝╚██████╔╝   ██║
+   ╚═╝    ╚═════╝ ╚═╝  ╚═╝    ╚═════╝  ╚═════╝    ╚═╝  <b>By Virtual Cyber Labs</b>
 
-                            Open Source Intelligence Tool for the Dark Web
+     Open Source Intelligence Tool for the Dark Web
 
 </pre>
 
@@ -16,14 +16,6 @@
     <img src="https://user-images.githubusercontent.com/4481429/94646312-9dafcd80-030b-11eb-9824-73aa2414cf58.png" width="160" title="OpenSource">
   <img src="https://user-images.githubusercontent.com/4481429/94645022-65f35680-0308-11eb-8dce-a4ceba8db660.png" width="270" title="OWASP Foundation">
 </p>
-
-
-### Status/Social links
-[![Flake8](https://github.com/DedSecInside/TorBot/actions/workflows/flake8.yml/badge.svg)](https://github.com/DedSecInside/TorBot/actions/workflows/flake8.yml)
-[![Slack Invite](https://img.shields.io/badge/Join-Slack-informational?style=flat-square&logo=slack)](https://join.slack.com/t/dedsec-inside/shared_invite/zt-i4jcgj8w-1ecHiSdRubwuppAzz8~yfg)
-[![Code Triage](https://www.codetriage.com/dedsecinside/torbot/badges/users.svg)](https://www.codetriage.com/dedsecinside/torbot)
-[![](https://img.shields.io/badge/Built%20with-❤-orange.svg?style=flat-square)]()
-[![](https://img.shields.io/badge/Made%20with-Python-red.svg?style=flat-square)]()
 
 ### Features
 1. Onion Crawler (.onion)
@@ -190,14 +182,3 @@ We welcome contributions to this project! Here are a few guidelines to follow:
     19. Chau M, Chen H. "A machine learning approach to web page filtering using content and structure analysis. Decision Support Systems." 2008 Jan 1;44(2):482-94.
     20. Ani R, Jose J, Wilson M, Deepa OS. “Modified Rotation Forest Ensemble Classifier for Medical Diagnosis in Decision Support Systems”, In Progress in Advanced Computing and Intelligent Engineering 2018 (pp. 137-146). Springer, Singapore.
     21. Ani R, Augustine A, Akhil N.C. and Deepa O.S., 2016. “Random Forest Ensemble Classifier to Predict the Coronary Heart Disease Using Risk Factors”, In Proceedings of the International Conference on Soft Computing Systems (pp. 701-710). Springer, New Delhi.
-
-
-## Maintainers
-
-- [X] [PS Narayanan](https://github.com/PSNAppz) - Co-owner
-- [X] [KingAkeem](https://github.com/KingAkeem) - Co-owner
-
-... see all [contributors](https://github.com/DedSecInside/TorBot/graphs/contributors)
-
-## License
-[GNU Public License](https://github.com/DedSecInside/TorBot/blob/dev/LICENSE.md)
